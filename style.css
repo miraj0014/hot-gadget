@@ -1,0 +1,48 @@
+
+.carousel-indicators li {
+    border-radius: 50px;
+    opacity: 1;
+    background-color: orange;
+    width: 16px;
+    height: 12px;
+    border-top: 0px solid transparent;
+    border-bottom: 0px solid transparent;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.button{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.see{
+    color:orange;
+}
+.container{
+    padding: 60px 30px;
+}
+.product{
+    text-align: center;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.underline{
+    text-align: center;
+    text-decoration: underline coral; padding-bottom: 5px;  
+}
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+#contact h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
